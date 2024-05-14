@@ -259,6 +259,11 @@ section {
   justify-content: space-around;
 }
 
+#projects .article-container img {
+  object-fit: cover;
+  height: 200px;
+}
+
 article {
   display: flex;
   width: 10rem;
